@@ -11,12 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("socket.net")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("71c09ef8-b49b-4fa5-8c96-b211f9b80e84")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+043492fb656cd1657027d98dfeff44f3e7a235e8")]
-[assembly: System.Reflection.AssemblyProductAttribute("socket.net")]
-[assembly: System.Reflection.AssemblyTitleAttribute("socket.net")]
+[assembly: System.Reflection.AssemblyProductAttribute("client")]
+[assembly: System.Reflection.AssemblyTitleAttribute("client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
